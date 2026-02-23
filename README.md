@@ -2,6 +2,7 @@
 Screen that can fit in a light switch
 
 * https://www.waveshare.com/wiki/RP2350-Touch-LCD-4
+* https://shop.pimoroni.com/products/hyperpixel-4-square?variant=30138251444307
 
 ## Status screens
 
