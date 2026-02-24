@@ -7,6 +7,8 @@ Screen that can fit in a light switch
 ## Waveshare RP2350
 
 * https://www.youtube.com/watch?v=rVc4AB276D8
+* https://www.youtube.com/watch?v=NpPNc1e85NU
+* https://github.com/jondurrant/RP2350Touch4-Exp
 
 ## Status screens
 
